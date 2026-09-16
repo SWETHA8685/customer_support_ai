@@ -1,0 +1,35 @@
+row_id,customer_message,current_intent,current_decision,proposed_intent,proposed_decision,human_review
+20,"@AmazonHelp Says looks like it's lost, check the the options below. But there aren't any!",service_complaint,auto_handle,delivery_not_received,escalate,YES
+25,@AmazonHelp Dans ce cas annulez ma commande et remboursez moi,service_complaint,auto_handle,refund_return,escalate,YES
+38,@AmazonHelp This came up so I emailed the email address on the website to send proof and that is what failed to send https://t.co/bWem9XFFQm,service_complaint,auto_handle,service_complaint,escalate,YES
+75,"@AmazonHelp Ist aktiviert, funktioniert aber nicht. Heute wieder 2x😩  Kam bisher nur 1x an, bei einer Bestellung von Amazon USA. Geht auch anderen so. 🙁",service_complaint,auto_handle,delivery_issue,escalate,YES
+83,@AmazonHelp @115850 so any update,service_complaint,auto_handle,service_complaint,escalate,YES
+84,@AmazonHelp i think amazon have just took a random £1 off me? I have no idea why,service_complaint,auto_handle,payment_issue,escalate,YES
+87,@115830 really annoying Mr at this stage can't get a single issue resolved. Can I please have a contact number for customer service in Ireland,service_complaint,auto_handle,service_complaint,escalate,YES
+90,@AmazonHelp I have shared the details .please have a look.,service_complaint,auto_handle,service_complaint,escalate,YES
+96,@AmazonHelp Una reclamación por vuestra parte.,service_complaint,auto_handle,service_complaint,escalate,YES
+105,アマゾンで注文してた零さんのウィッグが届いていないのに配達完了になっているw零さんどこいったんですかww,service_complaint,auto_handle,delivery_not_received,escalate,YES
+106,@AmazonHelp Reverted but failed. Share correct email id,service_complaint,auto_handle,account_issue,escalate,YES
+111,@AmazonHelp Can you not advise anything here?,service_complaint,auto_handle,service_complaint,escalate,YES
+113,"@AmazonHelp What exactly do you want me to do? That just takes me to your ""questions?"" Page… 
+I don't have a question. It is a reoccurring complaint. https://t.co/Hrg68liFcR",service_complaint,auto_handle,service_complaint,escalate,YES
+127,@AmazonHelp @115851 the status still says on the way - This is laughable !! https://t.co/3nBMazoDUE,service_complaint,auto_handle,delivery_issue,escalate,YES
+129,"@AmazonHelp #facepalm cookies and cache do not create issues like that, those look like placeholder tokens that were not replaced when the page was rendered. I'd suggest you have your developers look into this, I am fairly sure they will find references to the tokens in the source code.",service_complaint,auto_handle,product_issue,escalate,YES
+131,"@115821 @119356 @AmazonHelp @115851 @209576 Is there anyone who is really concerned abt their customers?  Desperately looking for positive solution. I m not getting any Email response too. Extremely disappointing. Instead of postmorteming the issue, give me the replacement of goods..🙏🙏",service_complaint,auto_handle,service_complaint,escalate,YES
+134,@AmazonHelp Had email with £40 off a Kindle. Website won't allow the code says it's expired.,service_complaint,auto_handle,product_issue,escalate,YES
+139,Mala experiencia con @116928. Van 2 pedidos no entregados y ha pasado casi 1 mes de la fecha de entrega. Pongo reclamación y ni contestan,service_complaint,auto_handle,delivery_not_received,escalate,YES
+141,How do I contact @115830 and why is it so dificoult?,service_complaint,auto_handle,account_issue,escalate,YES
+145,@AmazonHelp yes i dropped all the details. it has been more than a week.,service_complaint,auto_handle,service_complaint,escalate,YES
+148,"@115821 So, now explaining it for a fifth time to get another agent. Who still doesn’t get it.",service_complaint,auto_handle,service_complaint,escalate,YES
+155,アマゾンさん違う商品送ってきたよ～😭,service_complaint,auto_handle,product_issue,escalate,YES
+156,"@115850 Whats the point giving code which never works and give error ""This property is not participating in the offer"" -Lucky Winner of Amazon Great Indian Festival 2017",service_complaint,auto_handle,product_issue,escalate,YES
+158,Okay but... I'm officially a victim of misleading photos on Amazon. @115821 https://t.co/hl2Z2nJQJm,service_complaint,auto_handle,product_issue,escalate,YES
+163,"@118919 Madharchod amajon wale randi ke aaulad madharcho mera paisa fasaya helpline numbe bhi nhi lag rha 
+Bhut jaldi honewala hai patan india se",service_complaint,auto_handle,payment_issue,escalate,YES
+165,"@AmazonHelp Have done that. But what’s the point, have raised it before but no one does anything???",service_complaint,auto_handle,service_complaint,escalate,YES
+166,"@AmazonHelp @115851 very shameful activity by amazon, instead of taking action on complaint you people give make responsibility on consumer. 1/2",service_complaint,auto_handle,service_complaint,escalate,YES
+172,@AmazonHelp Providing my details 9th time. Let's see what you gonna do this time,service_complaint,auto_handle,service_complaint,escalate,YES
+179,"@AmazonHelp Non, comment faire et pourquoi?",service_complaint,auto_handle,service_complaint,escalate,YES
+182,@AmazonHelp Hable con atención al cliente y puse día reclamaciones,service_complaint,auto_handle,service_complaint,escalate,YES
+186,@115821 customer service is trash I was told 3 different things each time I called Then they hung up when I asked to speak with a supervisor,service_complaint,auto_handle,service_complaint,escalate,YES
+188,@AmazonHelp Realmente eso es lo más importante y no la pérdida de mi pedido? Podéis pedirme por privado el número de seguimiento y así poder ayudarme creo.....,service_complaint,auto_handle,delivery_not_received,escalate,YES
