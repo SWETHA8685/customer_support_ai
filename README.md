@@ -1066,4 +1066,3 @@ The repository contains the source code, evaluation scripts, golden-set artifact
 
 **Swetha T.**
 
-Hiver SDE Intern Take-Home Assignment
